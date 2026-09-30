@@ -1,0 +1,7 @@
+{
+  "name": "POSTFLOW AI",
+  "description": "Turn one idea into platform-perfect content for Instagram, Facebook, LinkedIn, X, WhatsApp, Snapchat, and Handshake.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
